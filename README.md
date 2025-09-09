@@ -4,6 +4,7 @@
 - 💻 Skills: Python, R, Bash  
 - 🔭 I’m currently working on building my python programing skills through small projects and tasks
 - 🌱 I’m currently learning python programming for biologists and Omics technologies
-- 📫 How to reach me: email: kellyoregan97@gmail.com
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/kelly-o-regan
 
 
